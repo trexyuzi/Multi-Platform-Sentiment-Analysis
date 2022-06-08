@@ -5,7 +5,7 @@ import pandas as pd
 
 #REDDIT MAIN FUNCTION FOR MINING
 
-reddit = praw.Reddit(client_id='O819Gp7QK8_o5A', client_secret='4pC2Pu3eTJWxdSKfKscZYQOh2-o', user_agent='Reddit WebScraping')
+reddit = praw.Reddit(client_id='O819_o5A', client_secret='4pC2ZYQOh2-o', user_agent='Reddit WebScraping')
 
 
 def top_posts(topic):
